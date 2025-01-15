@@ -5,7 +5,7 @@ metadata:
   description: Everything related to artists
   title: Artists
   links:
-    - url: 12345
+    - url: http://example.com/domain/artists/
       title: Domain Readme
     - url: http://example.com/domains/artists/dashboard
       title: Domain Metrics Dashboard
