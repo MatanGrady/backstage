@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: artists123
+  name: artists
   description: Everything related to artists
   title: Artists
   links:
-    - url: http://example.com/domain/artists/
+    - url: 12345
       title: Domain Readme
     - url: http://example.com/domains/artists/dashboard
       title: Domain Metrics Dashboard
